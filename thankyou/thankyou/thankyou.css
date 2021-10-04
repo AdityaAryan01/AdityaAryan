@@ -1,0 +1,36 @@
+body{
+	background-color:#0c0b0b;
+	font-family: sans-serif;
+	font-size: 16px;
+	margin: 0;
+  color: white;
+  font-family:Chewy;
+  color: #16da7c;
+}
+ body::-webkit-scrollbar{
+        width: 12px;
+      }
+      body::-webkit-scrollbar-track{
+        -webkit-box-shadow: inset 1px 1px 4px:
+      }
+      body::-webkit-scrollbar-thumb{
+        background-color:#350751;
+      }
+      body::-webkit-scrollbar-thumb:hover{
+      	background-color:#58206c;
+      }
+ body::-webkit-scrollbar-track{
+    background:#1f1027;
+}
+.container{
+ 
+  padding-top: 180px;
+}
+.container h1{
+    font-size: 80px;
+    text-align:center ;
+}
+.container p{
+  font-size: 50px;
+  text-align: center;
+}
